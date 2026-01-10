@@ -1,34 +1,83 @@
-# Krumil
+<div align="center">
 
-**Building at the AI x Web3 intersection.**
+<!-- Dynamic Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Krumil&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20×%20Web3&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
-Indie developer shipping AI agents and decentralized applications. I build tools that automate, protocols that scale, and products that work.
+<!-- Typing Animation -->
+<a href="https://www.krumil.ai">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+AI+agents+that+think;Shipping+DeFi+protocols+that+scale;Indie+dev+turning+ideas+into+products" alt="Typing SVG" />
+</a>
 
----
+</div>
 
-### Now
+<br/>
 
-- Developing AI agents with LangChain
-- Building DeFi protocols and dApps
-- Shipping products as a freelance full-stack dev
+<!-- About Section -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Stack
+### What I Do
 
-```
-Frontend    React · Next.js · TypeScript
-Backend     Node.js · Python
-AI          LangChain · OpenAI · Anthropic
-Web3        Solidity · Ethereum · Solana · Viem
-```
+Building at the intersection of **AI** and **Web3** — where autonomous agents meet decentralized systems.
 
-### Stats
+- Developing AI agents with LangChain & custom architectures
+- Shipping DeFi protocols and on-chain applications
+- Full-stack products from zero to production
 
-<img src="https://github-readme-stats.vercel.app/api?username=Krumil&show_icons=true&theme=dark&hide_border=true&hide_title=true&hide_rank=true&icon_color=888&text_color=aaa&bg_color=0d1117" height="140" />
+</td>
+<td width="50%" valign="top">
 
----
+### Tech Stack
 
-<sub>
+| Domain | Tools |
+|--------|-------|
+| **Frontend** | React · Next.js · TypeScript |
+| **Backend** | Node.js · Python · FastAPI |
+| **AI** | LangChain · OpenAI · Anthropic |
+| **Web3** | Solidity · Ethereum · Solana · Viem |
 
-**[krumil.ai](https://www.krumil.ai)** · **[@Simo1028](https://x.com/Simo1028)** · **[krumil018@gmail.com](mailto:krumil018@gmail.com)**
+</td>
+</tr>
+</table>
 
-</sub>
+<br/>
+
+<!-- Stats Section -->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Krumil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Krumil&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" />
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Krumil&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krumil/Krumil/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krumil/Krumil/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Krumil/Krumil/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+
+<a href="https://www.krumil.ai"><img src="https://img.shields.io/badge/krumil.ai-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://x.com/Simo1028"><img src="https://img.shields.io/badge/@Simo1028-000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:krumil018@gmail.com"><img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>
