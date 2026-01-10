@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=Krumil&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI%20×%20Web3&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://www.krumil.ai">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Building+AI+agents+that+think;Shipping+DeFi+protocols+that+scale;Indie+dev+turning+ideas+into+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=making+AI+do+stuff;building+things+onchain;freelance+dev+for+hire" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,11 +12,7 @@
 
 ### What I Do
 
-Building at the intersection of **AI** and **Web3** — where autonomous agents meet decentralized systems.
-
-- Developing AI agents with LangChain & custom architectures
-- Shipping DeFi protocols and on-chain applications
-- Full-stack products from zero to production
+I build AI agents and web3 apps. Mostly LangChain bots, DeFi stuff, and whatever else seems interesting. Also available for freelance work.
 
 ### Stack
 
